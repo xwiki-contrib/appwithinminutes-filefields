@@ -24,18 +24,18 @@
   <parent>
     <groupId>org.xwiki.commons</groupId>
     <artifactId>xwiki-commons-pom</artifactId>
-    <version>5.4.4</version>
+    <version>8.4.4</version>
   </parent>
   <groupId>org.xwiki.contrib</groupId>
   <artifactId>application-appwithinminutes-filefields</artifactId>
   <version>1.0</version>
   <packaging>xar</packaging>
-  <name>XWiki Application - appwithinminutes-filefields</name>
+  <name>AppWithinMinutes Additional File Fields</name>
   <description>Image and File fields for AppWithinMinutes</description>
   <developers>
     <developer>
       <id>ldubost</id>
-      <name>ldubost</name>
+      <name>Ludovic Dubost</name>
     </developer>
   </developers>
  <build>
@@ -57,9 +57,9 @@
     </plugins>
   </build>
   <scm>
-    <connection>scm:git:git://github.com/ldubost/appwithinminutes-filefields.git</connection>
-    <developerConnection>scm:git:git@github.com:ldubost/appwithinminutes-filefields.git</developerConnection>
-    <url>https://github.com/ldubost/appwithinminutes-filefields</url>
+    <connection>scm:git:git://github.com/xwiki-contrib/appwithinminutes-filefields.git</connection>
+    <developerConnection>scm:git:git@github.com:xwiki-contrib/appwithinminutes-filefields.git</developerConnection>
+    <url>https://github.com/xwiki-contrib/appwithinminutes-filefields</url>
     <tag>HEAD</tag>
   </scm>
   <distributionManagement>
