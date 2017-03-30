@@ -28,7 +28,7 @@
   </parent>
   <groupId>org.xwiki.contrib</groupId>
   <artifactId>application-appwithinminutes-filefields</artifactId>
-  <version>1.0</version>
+  <version>1.0-SNAPSHOT</version>
   <packaging>xar</packaging>
   <name>AppWithinMinutes Additional File Fields</name>
   <description>Image and File fields for AppWithinMinutes</description>
