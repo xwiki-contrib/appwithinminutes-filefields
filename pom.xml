@@ -38,6 +38,10 @@
       <name>Ludovic Dubost</name>
     </developer>
   </developers>
+  <properties>
+    <!-- The extension's category -->
+    <xwiki.extension.category>application</xwiki.extension.category>
+  </properties>
  <build>
     <!-- Needed to add support for the XAR packaging -->
     <extensions>
